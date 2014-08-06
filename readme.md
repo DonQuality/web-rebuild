@@ -15,7 +15,7 @@ Hello!!!
 
   -h2
 
-  -paragraph
+  -paragraph <Tags>
   etc.
 
   And used CSS to give my HTML some style. It is very simple and i apologize for the way that i am explaining this to you, i know you're smart enough to understand!!!...
