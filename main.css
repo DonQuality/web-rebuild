@@ -1,0 +1,111 @@
+body {
+	background: #DDD no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background- 
+	background-size:cover;
+	margin-left: 0px;
+	margin-top: -5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}#h1 {
+	background-color: #066;
+	display: block;
+	height: 50px;
+	width: 100%;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+.boxPic {
+	background-color: #099;
+	display: block;
+	height: 650px;
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-top:40px;
+	background-image: url(img/TestMe.jpg);
+	background-repeat:no-repeat;
+}
+h1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #EEE;
+	text-align: center center;
+	font-size: 24px;
+	margin-left:70px;
+}
+#logo {
+	float: left;
+	height: auto;
+	width: 300px;
+	height:50px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	background-position:center center;
+}
+#Table1 {
+	float: right;
+	heigth: 50px;
+	margin-right:80px;
+}
+th {
+	color: #EEE;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2 {
+	color: #222;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+p {
+	color: #888;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#foot {
+	background-color: #066;
+	height: 30px;
+	width: 100%;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	text-align: center;
+	color: #EEE;
+}
